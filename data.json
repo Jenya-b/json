@@ -34,7 +34,7 @@
     "name":"Сосулька красная",
     "count":"2",
     "year":"1980",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"красный",
     "size":"большой",
     "favorite":false
@@ -44,9 +44,9 @@
     "name":"Красный виноград",
     "count":"4",
     "year":"1980",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"красный",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -66,7 +66,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"белый",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -84,7 +84,7 @@
     "name":"Колокольчик старинный",
     "count":"2",
     "year":"1950",
-    "shape":"колокольчик",
+    "shape":"asus",
     "color":"белый",
     "size":"большой",
     "favorite":false
@@ -104,7 +104,7 @@
     "name":"Шишка еловая белая",
     "count":"11",
     "year":"1960",
-    "shape":"шишка",
+    "shape":"acer",
     "color":"белый",
     "size":"малый",
     "favorite":false
@@ -144,9 +144,9 @@
     "name":"Колокольчик расписной",
     "count":"3",
     "year":"1970",
-    "shape":"колокольчик",
+    "shape":"asus",
     "color":"синий",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -154,9 +154,9 @@
     "name":"Шишка расписная Пейзаж",
     "count":"3",
     "year":"1970",
-    "shape":"шишка",
+    "shape":"acer",
     "color":"синий",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -164,9 +164,9 @@
     "name":"Шишка расписная",
     "count":"7",
     "year":"1970",
-    "shape":"шишка",
+    "shape":"acer",
     "color":"красный",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -196,7 +196,7 @@
     "year":"1950",
     "shape":"apple",
     "color":"красный",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -214,7 +214,7 @@
     "name":"Шишка еловая золотая",
     "count":"11",
     "year":"1990",
-    "shape":"шишка",
+    "shape":"acer",
     "color":"желтый",
     "size":"малый",
     "favorite":false
@@ -224,7 +224,7 @@
     "name":"Колокольчик старинный",
     "count":"9",
     "year":"1950",
-    "shape":"колокольчик",
+    "shape":"asus",
     "color":"желтый",
     "size":"большой",
     "favorite":false
@@ -234,7 +234,7 @@
     "name":"Снежинка изящная",
     "count":"1",
     "year":"1940",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"белый",
     "size":"большой",
     "favorite":false
@@ -326,7 +326,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"синий",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -344,9 +344,9 @@
     "name":"Фигурка Лис в шарфе",
     "count":"8",
     "year":"1950",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"желтый",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -384,7 +384,7 @@
     "name":"Красная снежинка",
     "count":"6",
     "year":"1990",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"красный",
     "size":"большой",
     "favorite":false
@@ -394,7 +394,7 @@
     "name":"Снежинка золотая",
     "count":"12",
     "year":"2020",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"желтый",
     "size":"большой",
     "favorite":false
@@ -404,7 +404,7 @@
     "name":"Снежинка арктическая",
     "count":"11",
     "year":"2020",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"белый",
     "size":"большой",
     "favorite":false
@@ -416,7 +416,7 @@
     "year":"1980",
     "shape":"apple",
     "color":"зелёный",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -424,7 +424,7 @@
     "name":"Снежинка двухцветная",
     "count":"6",
     "year":"1960",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"красный",
     "size":"большой",
     "favorite":false
@@ -434,9 +434,9 @@
     "name":"Фигурка Ангела",
     "count":"11",
     "year":"1940",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"красный",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   },
   {
@@ -444,7 +444,7 @@
     "name":"Снежинка новогодняя",
     "count":"1",
     "year":"1980",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"белый",
     "size":"большой",
     "favorite":false
@@ -454,7 +454,7 @@
     "name":"Фигурка Мухомор",
     "count":"10",
     "year":"1950",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"красный",
     "size":"малый",
     "favorite":false
@@ -464,7 +464,7 @@
     "name":"Фигурка Колодец",
     "count":"6",
     "year":"1950",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"красный",
     "size":"малый",
     "favorite":false
@@ -484,7 +484,7 @@
     "name":"Снежинка с бирюзой",
     "count":"4",
     "year":"1980",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"желтый",
     "size":"большой",
     "favorite":false
@@ -494,7 +494,7 @@
     "name":"Колокольчик большой",
     "count":"3",
     "year":"2020",
-    "shape":"колокольчик",
+    "shape":"asus",
     "color":"красный",
     "size":"большой",
     "favorite":false
@@ -504,7 +504,7 @@
     "name":"Шишка с изморозью",
     "count":"12",
     "year":"1970",
-    "shape":"шишка",
+    "shape":"acer",
     "color":"красный",
     "size":"малый",
     "favorite":false
@@ -524,7 +524,7 @@
     "name":"Снежинка серебристая",
     "count":"6",
     "year":"2020",
-    "shape":"снежинка",
+    "shape":"hp",
     "color":"белый",
     "size":"большой",
     "favorite":false
@@ -544,7 +544,7 @@
     "name":"Пряничный домик",
     "count":"1",
     "year":"1940",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"желтый",
     "size":"большой",
     "favorite":false
@@ -554,7 +554,7 @@
     "name":"Пряничный теремок",
     "count":"1",
     "year":"1940",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"желтый",
     "size":"малый",
     "favorite":false
@@ -564,9 +564,9 @@
     "name":"Пряничная избушка",
     "count":"1",
     "year":"1940",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"желтый",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -574,9 +574,9 @@
     "name":"Фигурка белого медведя",
     "count":"2",
     "year":"1980",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"белый",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -586,7 +586,7 @@
     "year":"1990",
     "shape":"apple",
     "color":"желтый",
-    "size":"средний",
+    "size":"four",
     "favorite":false
   },
   {
@@ -594,9 +594,9 @@
     "name":"Фигурка Голубь",
     "count":"12",
     "year":"1940",
-    "shape":"фигурка",
+    "shape":"dell",
     "color":"белый",
-    "size":"средний",
+    "size":"four",
     "favorite":true
   }
 ]
