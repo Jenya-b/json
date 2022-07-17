@@ -6,7 +6,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -16,7 +16,7 @@
     "year":"2000",
     "shape":"apple",
     "color":"зелёный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -26,7 +26,7 @@
     "year":"1990",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -36,7 +36,7 @@
     "year":"1980",
     "shape":"dell",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -46,7 +46,7 @@
     "year":"1980",
     "shape":"dell",
     "color":"красный",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -56,7 +56,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -66,7 +66,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"белый",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -76,7 +76,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -86,7 +86,7 @@
     "year":"1950",
     "shape":"asus",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -96,7 +96,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -106,7 +106,7 @@
     "year":"1960",
     "shape":"acer",
     "color":"белый",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -116,7 +116,7 @@
     "year":"1980",
     "shape":"apple",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -126,7 +126,7 @@
     "year":"1970",
     "shape":"apple",
     "color":"синий",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -136,7 +136,7 @@
     "year":"1970",
     "shape":"apple",
     "color":"синий",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -146,7 +146,7 @@
     "year":"1970",
     "shape":"asus",
     "color":"синий",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -156,7 +156,7 @@
     "year":"1970",
     "shape":"acer",
     "color":"синий",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -166,7 +166,7 @@
     "year":"1970",
     "shape":"acer",
     "color":"красный",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -176,7 +176,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -186,7 +186,7 @@
     "year":"1980",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -196,7 +196,7 @@
     "year":"1950",
     "shape":"apple",
     "color":"красный",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -206,7 +206,7 @@
     "year":"1970",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -216,7 +216,7 @@
     "year":"1990",
     "shape":"acer",
     "color":"желтый",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -226,7 +226,7 @@
     "year":"1950",
     "shape":"asus",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -236,7 +236,7 @@
     "year":"1940",
     "shape":"hp",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -246,7 +246,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -256,7 +256,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -266,7 +266,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -276,7 +276,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -286,7 +286,7 @@
     "year":"1950",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -296,7 +296,7 @@
     "year":"1950",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -306,7 +306,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -316,7 +316,7 @@
     "year":"1970",
     "shape":"apple",
     "color":"синий",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -326,7 +326,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"синий",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -336,7 +336,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"зелёный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -346,7 +346,7 @@
     "year":"1950",
     "shape":"dell",
     "color":"желтый",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -356,7 +356,7 @@
     "year":"2000",
     "shape":"apple",
     "color":"синий",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -366,7 +366,7 @@
     "year":"2000",
     "shape":"apple",
     "color":"зелёный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -376,7 +376,7 @@
     "year":"2000",
     "shape":"apple",
     "color":"синий",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -386,7 +386,7 @@
     "year":"1990",
     "shape":"hp",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -396,7 +396,7 @@
     "year":"2020",
     "shape":"hp",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -406,7 +406,7 @@
     "year":"2020",
     "shape":"hp",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -416,7 +416,7 @@
     "year":"1980",
     "shape":"apple",
     "color":"зелёный",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -426,7 +426,7 @@
     "year":"1960",
     "shape":"hp",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -436,7 +436,7 @@
     "year":"1940",
     "shape":"dell",
     "color":"красный",
-    "size":"four",
+    "size":"4",
     "favorite":true
   },
   {
@@ -446,7 +446,7 @@
     "year":"1980",
     "shape":"hp",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -456,7 +456,7 @@
     "year":"1950",
     "shape":"dell",
     "color":"красный",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -466,7 +466,7 @@
     "year":"1950",
     "shape":"dell",
     "color":"красный",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -476,7 +476,7 @@
     "year":"1960",
     "shape":"apple",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -486,7 +486,7 @@
     "year":"1980",
     "shape":"hp",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -496,7 +496,7 @@
     "year":"2020",
     "shape":"asus",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -506,7 +506,7 @@
     "year":"1970",
     "shape":"acer",
     "color":"красный",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -516,7 +516,7 @@
     "year":"1990",
     "shape":"apple",
     "color":"красный",
-    "size":"большой",
+    "size":"6",
     "favorite":true
   },
   {
@@ -526,7 +526,7 @@
     "year":"2020",
     "shape":"hp",
     "color":"белый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -536,7 +536,7 @@
     "year":"2010",
     "shape":"apple",
     "color":"зелёный",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -546,7 +546,7 @@
     "year":"1940",
     "shape":"dell",
     "color":"желтый",
-    "size":"большой",
+    "size":"6",
     "favorite":false
   },
   {
@@ -556,7 +556,7 @@
     "year":"1940",
     "shape":"dell",
     "color":"желтый",
-    "size":"малый",
+    "size":"2",
     "favorite":false
   },
   {
@@ -566,7 +566,7 @@
     "year":"1940",
     "shape":"dell",
     "color":"желтый",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -576,7 +576,7 @@
     "year":"1980",
     "shape":"dell",
     "color":"белый",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -586,7 +586,7 @@
     "year":"1990",
     "shape":"apple",
     "color":"желтый",
-    "size":"four",
+    "size":"4",
     "favorite":false
   },
   {
@@ -596,7 +596,7 @@
     "year":"1940",
     "shape":"dell",
     "color":"белый",
-    "size":"four",
+    "size":"4",
     "favorite":true
   }
 ]
